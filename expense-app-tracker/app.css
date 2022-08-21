@@ -1,0 +1,37 @@
+.text-xs {
+    font-size:0.80rem;
+}
+
+.text-xs-2 {
+    font-size:1.2rem;
+}
+
+.text-center{
+    text-align:center;
+}
+
+a{
+    text-decoration: none;
+}
+
+.hgt {
+    width: 100%;
+    height: 40vh;
+    object-fit: cover;
+}
+
+.cls-red{
+    color:red;
+
+}
+
+.hidden { display:none; }
+
+.normal-text {
+   color: black;
+   text-decoration: none;
+}
+
+.inline-blk {
+   display:inline-block;
+ }
